@@ -7,7 +7,8 @@ Would you like to build your own smart devices and control them from one central
 House of Iot is a collection of custom smart device automation software.
 
 We provide a ["recipe-book"](https://github.com/House-of-IoT/Tutorials) of basic/general purpose smart devices for everyone who can't create custom devices.
-Each device in our "recipe book" comes with a tutorial to setup the hardware and the matching software.
+Each device in our "recipe book" comes with a tutorial to setup the hardware and the matching software. We plan on having a never ending amount of 
+premade devices so the average user can find everything they need for their home/life automation.
 
 Everything is designed to have an easy setup, have been tested and  should work straight out of the box.
 ## The solved problems
