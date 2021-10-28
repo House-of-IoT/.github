@@ -24,7 +24,7 @@ Everything is designed to have an easy setup, have been tested and  should work 
     - HOI software systems can be hosted anywhere!!
     
 - Device relational control(Chain Controlling aka Relational Controlling)
-    - Create a relation of devices that can autonomously control each other's states.
+    - Create a system of devices that can autonomously control each other's states.
     Check the [Chain Controlling](https://github.com/House-of-IoT/HOI-GeneralServer/blob/master/Docs/ChainControlling.MD) 
     documentation to learn more about this feature.
     
