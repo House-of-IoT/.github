@@ -20,7 +20,7 @@ Everything is designed to have an easy setup, have been tested and  should work 
     
 - Personal hosting and no setup complications
     - HOI is designed to work without the need to setup a bunch of systems. 
-    There is no need for any databases ,message brokers or any other enterprise requirements.
+    There is no need for any databases(based on configuration), message brokers or any other enterprise requirements.
     - HOI software systems can be hosted anywhere!!
     
 - Device relational control(Chain Controlling aka Relational Controlling)
