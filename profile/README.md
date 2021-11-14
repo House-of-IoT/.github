@@ -29,7 +29,7 @@ Everything is designed to have an easy setup, have been tested and  should work 
     documentation to learn more about this feature.
     
 - Auto-Scheduling device actions
-  - Won't have time to load the HOI interface and turn off your smart sprinkler system in 30 minutes? You can use the 
+  - Won't have time to load the HOI interface and turn off your custom smart sprinkler system in 30 minutes? You can use the 
   [Auto Scheduling](https://github.com/House-of-IoT/HOI-GeneralServer/blob/master/Docs/AutoScheduling.MD) feature to
   schedule the action in advance.
 
