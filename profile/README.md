@@ -1,5 +1,5 @@
 ## Welcome to House Of Iot 👋
-Do you dislike having to use 5+ mobile apps to control your store bought smart devices?
+Do you dislike having to use a ton of mobile apps to control your store bought smart devices?
 
 Would you like to build your own smart devices and control them from one central interface?
 
