@@ -15,7 +15,7 @@ premade devices so the average user can find everything they need for their home
 Everything is designed to have an easy setup, have been tested and  should work straight out of the box.
 
 ## The solved problems
-- Central point of control for all devices.
+- Central point of control for all devices smart devices.
     - We are tired of having to buy retail smart devices that each require a different mobile application to control.
     
 - Personal hosting and no setup complications
