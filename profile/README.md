@@ -29,4 +29,3 @@ We provide a ["recipe-book"](https://github.com/House-of-IoT/Tutorials) of custo
 different types of devices that could come in handy in automating your home/life.
 
 Every device in the recipe-book have custom peer reviewed tutorials for setting up the hardware and the software to run the system/device properly. 
-If you don't see a device that you would like added to the book you could directly reach out for assistance in creation.
