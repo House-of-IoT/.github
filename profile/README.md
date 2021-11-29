@@ -1,37 +1,32 @@
 ## Welcome to House Of Iot 👋
+
+<img align = "center" width = "200px" src ="https://github.com/House-of-IoT/HOI-WebClient/blob/master/Frontend/src/Img/bot.png"/>
+
 Do you dislike having to use a ton of mobile apps to control your store bought smart devices?
 
-Would you like to build your own smart devices and control them from one central interface?
+Would you like to build your own smart devices/systems and control them from one central interface?
 
-# About
-House of Iot is a collection of custom smart device automation software.
+# More In-Depth
+House of Iot is a collection of custom smart device automation software.  
+### Main Software Components
+- The [HOI-GeneralServer](https://github.com/House-of-IoT/HOI-GeneralServer) - controls all devices and manages them.
+- The [ExternalController](https://github.com/House-of-IoT/ExternalController) - implementation of ChainControlling.
+- The [HOI-WebClient](https://github.com/House-of-IoT/HOI-WebClient) - Web Interface.
+- The [HOI-MobileClient](https://github.com/House-of-IoT/HOI-MobileClient) - Mobile Interface.
 
-We provide a ["recipe-book"](https://github.com/House-of-IoT/Tutorials) of basic/general purpose smart devices for everyone who can't create custom devices.
-Each device in our "recipe book" comes with a tutorial to setup the hardware and the matching software. 
+### Main Features
+- [ChainControlling](https://github.com/House-of-IoT/HOI-GeneralServer/blob/master/Docs/ChainControlling.MD)
+- [AutoScheduling](https://github.com/House-of-IoT/HOI-GeneralServer/blob/master/Docs/AutoScheduling.MD)
+- Reoccuring AutoScheduling
+- Three authentication leveling system
+- Real time passive data collection
+- [Real time notifications](https://github.com/House-of-IoT/HOI-GeneralServer/blob/master/Docs/Notifications.MD)
+- Grafana Integration
+- Device Blueprinting
 
-We plan on having a never ending amount of 
-premade devices so the average user can find everything they need for their home/life automation.
+### What If I don't have the skills to design and implement custom systems/devices?
+We provide a ["recipe-book"](https://github.com/House-of-IoT/Tutorials) of custom devices created by the community, this recipe book contains 
+different types of devices that could come in handy in automating your home/life.
 
-Everything is designed to have an easy setup, have been tested and  should work straight out of the box.
-
-## The solved problems
-- Central point of control for all smart devices.
-    - We are tired of having to buy retail smart devices that each require a different mobile application to control.
-    
-- Personal hosting and no setup complications
-    - HOI is designed to work without the need to setup a bunch of systems. 
-    There is no need for any databases(based on configuration), message brokers or any other enterprise requirements.
-    - HOI software systems can be hosted anywhere!!
-    
-- Device relational control(Chain Controlling aka Relational Controlling)
-    - Create a system of devices that can autonomously control each other's states.
-    Check the [Chain Controlling](https://github.com/House-of-IoT/HOI-GeneralServer/blob/master/Docs/ChainControlling.MD) 
-    documentation to learn more about this feature.
-    
-- Auto-Scheduling device actions
-  - Won't have time to load the HOI interface and turn off your custom smart sprinkler system in 30 minutes? You can use the 
-  [Auto Scheduling](https://github.com/House-of-IoT/HOI-GeneralServer/blob/master/Docs/AutoScheduling.MD) feature to
-  schedule the action in advance.
-
-    
-
+Every device in the recipe-book have custom peer reviewed tutorials for setting up the hardware and the software to run the system/device properly. 
+If you don't see a device that you would like added to the book you could directly reach out for assistance in creation.
