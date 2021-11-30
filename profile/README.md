@@ -7,7 +7,10 @@ Do you dislike having to use a ton of mobile apps to control your store bought s
 Would you like to build your own smart devices/systems and control them from one central interface?
 
 # More In-Depth
-House of Iot is a collection of custom smart device automation software.  
+House of Iot is a collection of custom smart device automation software. When this software collection is put together it creates
+a central point of control for all devices along with other autonomous perks. The software is fully user configurable and 
+lightweight, the full suite could be hosted on a single raspberry pi with certain limitations.
+
 ### Main Software Components
 - The [HOI-GeneralServer](https://github.com/House-of-IoT/HOI-GeneralServer) - controls all devices and manages them.
 - The [ExternalController](https://github.com/House-of-IoT/ExternalController) - implementation of ChainControlling.
