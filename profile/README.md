@@ -20,7 +20,7 @@ lightweight, the full suite could be hosted on a single raspberry pi with certai
 ### Main Features
 - [ChainControlling](https://github.com/House-of-IoT/HOI-GeneralServer/blob/master/Docs/ChainControlling.MD)
 - [AutoScheduling](https://github.com/House-of-IoT/HOI-GeneralServer/blob/master/Docs/AutoScheduling.MD)
-- Reoccuring AutoScheduling
+- Recurring AutoScheduling
 - Three authentication leveling system
 - Real time passive data collection
 - [Real time notifications](https://github.com/House-of-IoT/HOI-GeneralServer/blob/master/Docs/Notifications.MD)
