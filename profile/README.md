@@ -32,3 +32,4 @@ We provide a ["recipe-book"](https://github.com/House-of-IoT/Tutorials) of custo
 different types of devices that could come in handy in automating your home/life.
 
 Every device in the recipe-book have custom peer reviewed tutorials for setting up the hardware and the software to run the system/device properly. 
+Want to collaborate with others on your IoT server? Check out [Collaborative-IoT](https://github.com/Collaborative-IoT) which was built by the same creator and has integrations for the platform!
