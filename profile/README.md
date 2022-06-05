@@ -14,8 +14,8 @@ lightweight, the full suite could be hosted on a single raspberry pi with certai
 ### Main Software Components
 - The [HOI-GeneralServer](https://github.com/House-of-IoT/HOI-GeneralServer) - controls all devices and manages them.
 - The [ExternalController](https://github.com/House-of-IoT/ExternalController) - implementation of ChainControlling.
-- The [HOI-WebClient](https://github.com/House-of-IoT/HOI-WebClient) - Web Interface.
-- The [HOI-MobileClient](https://github.com/House-of-IoT/HOI-MobileClient) - Mobile Interface.
+- The [HOI-WebClient](https://github.com/House-of-IoT/HOI-WebClient) - Web Interface - shifting to collaborative IoT for main support.
+- The [HOI-MobileClient](https://github.com/House-of-IoT/HOI-MobileClient) - Mobile Interface - shifting to collaborative IoT for main support.
 
 ### Main Features
 - [ChainControlling](https://github.com/House-of-IoT/HOI-GeneralServer/blob/master/Docs/ChainControlling.MD)
