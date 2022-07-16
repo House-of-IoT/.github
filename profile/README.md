@@ -28,7 +28,7 @@ lightweight, the full suite could be hosted on a single raspberry pi with certai
 - Device Blueprinting
 
 ### What If I don't have the skills to design and implement custom systems/devices?
-We provide a ["recipe-book"](https://github.com/House-of-IoT/Tutorials) of custom devices created by the community, this recipe book contains 
+We provide a ["recipe-book"](https://github.com/HOI-Devices) of custom devices created by the community, this recipe book contains 
 different types of devices that could come in handy in automating your home/life.
 
 Every device in the recipe-book have custom peer reviewed tutorials for setting up the hardware and the software to run the system/device properly. 
